@@ -1,0 +1,21 @@
+# Shared evaluation and model utilities
+accelerate==1.14.0
+datasets[audio]==5.0.1
+librosa==0.11.0
+numpy==2.3.5
+soundfile==0.14.0
+torch==2.13.0
+tqdm==4.70.0
+transformers==5.15.0
+
+# Captioning and hosted-model backends
+faster-whisper==1.2.1
+google-genai==2.18.1
+mistral-common[audio]==1.11.7
+openai==3.1.0
+vllm==0.27.1
+
+# BM25 baselines
+gensim==4.4.0
+pyserini==1.6.0
+scipy==1.17.1
