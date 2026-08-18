@@ -3,7 +3,7 @@
 # INSPIRE: A Benchmark for Instruction-Aware Speech Retrieval
 
 [![Hugging Face Dataset](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/datasets/lca0503/INSPIRE)
-![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b?logo=arXiv)
+[![arXiv](https://img.shields.io/badge/arXiv-2608.16203-b31b1b?logo=arXiv)](https://arxiv.org/abs/2608.16203)
 
 <p>
 A benchmark for retrieving spoken documents with natural-language instructions
@@ -223,11 +223,10 @@ If you find our code or models helpful, please consider citing our paper using
 the following BibTeX:
 
 ```bibtex
-@article{inspire2026,
+@article{li2026inspire,
   title   = {INSPIRE: A Benchmark for Instruction-Aware Speech Retrieval},
-  author  = {{INSPIRE Authors}},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
-  year    = {2026},
-  url     = {https://arxiv.org/abs/XXXX.XXXXX}
+  author  = {Li, Chen-An and Lee, Hung-yi},
+  journal = {arXiv preprint arXiv:2608.16203},
+  year    = {2026}
 }
 ```
